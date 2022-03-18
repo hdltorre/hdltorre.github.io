@@ -3,3 +3,5 @@ layout: page
 title: About me
 subtitle: Who am I? What do I do? 
 ---
+
+Particle physicist working at the ATLAS Experiment at the Large Hadron Collider (LHC). I am currently interested in searches of new physics beyond the standar model, particularly in final states with third generation quarks. I am also involved in the upgrade of the ATLAS detector towards the High-Luminosity LHC.
