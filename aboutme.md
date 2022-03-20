@@ -1,5 +1,6 @@
 ---
 layout: page
+full-width: true
 title: About me
 subtitle: Beyond particle physics, I'm just me
 ---
