@@ -1,6 +1,5 @@
 ---
 layout: page
-full-width: true
 title: Hector de la Torre Perez
 subtitle: PhD, Research associate at Michigan State University
 ---
