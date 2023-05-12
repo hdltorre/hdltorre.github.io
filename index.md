@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hector de la Torre Perez
-subtitle: PhD, Research associate at Michigan State University
+subtitle: PhD, Assistant Professor at Northern Illinois University
 ---
 
 #### Welcome to my website! Here I collect some thoughts, interesting material and less interesting things about myself.
