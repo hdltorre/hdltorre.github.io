@@ -17,8 +17,6 @@ navbar-links:
   About Me: "aboutme"
   My research: "research"
   CV: "cv"
-  Blog: "blog"
-
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
@@ -38,11 +36,11 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "de.la.torre.perez@gmail.com"
+  #email: "de.la.torre.perez@gmail.com"
     #rss: true  # remove this line if you don't want to show an RSS link at the bottom
     #facebook: deanattali
-  github: hdltorre
-  twitter: gandalfill0
+    #github: hdltorre
+    #twitter: gandalfill0
     #patreon: DeanAttali
     #youtube: c/daattali
 #  medium: yourname
@@ -72,9 +70,9 @@ rss-description: Yeah
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
-  linkedin: true
+  twitter: false
+  facebook: false
+  linkedin: false
   vk: false
 
 # How to display the link to your website in the footer
